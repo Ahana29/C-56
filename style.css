@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:darkseagreen;
+}
+div{
+    margin-top:15px;
+    text-align:center;
+}
+img{
+    display:flex;
+    text-align:center;
+    width:600px;
+    height:600px;
+}
